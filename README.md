@@ -3,6 +3,7 @@
 This repository contains a project focused on clinical decision making and pattern recognition in health care. The project includes a written report and a hackathon proof of concept demonstrating the use of machine learning techniques to analyze health data.
 
 Video Presentation: https://drive.google.com/file/d/1cEcpd1DjkmTyxadJQmbGP5CbHhs-GilW/view?usp=drive_link
+
 POC Video Presentation: https://drive.google.com/file/d/1ppDwyZhJUgth0v_rTAxDNJ-F1MydML7I/view?usp=drive_link
 ## Table of Contents
 - [Introduction](#introduction)
