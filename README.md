@@ -1,5 +1,4 @@
-**Clinical Decision Making and Pattern Recognition in Health Care
-**
+**Clinical Decision Making and Pattern Recognition in Health Care**
 
 This repository contains a project that is about clinical decision making and pattern recognition in health care. It includes the deliverables a written report and a hackathon proof of concept. It demonstrates the use of machine learning techniques to analyze health data.
 
