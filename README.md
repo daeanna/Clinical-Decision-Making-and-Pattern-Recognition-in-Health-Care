@@ -6,15 +6,6 @@ Here is my Presentation via Google Drive:
 Video Presentation: https://drive.google.com/file/d/1cEcpd1DjkmTyxadJQmbGP5CbHhs-GilW/view?usp=drive_link
 
 POC Video Presentation: https://drive.google.com/file/d/1ppDwyZhJUgth0v_rTAxDNJ-F1MydML7I/view?usp=drive_link
-Table of Contents. I find useful:
-[Introduction](#introduction)
-[Project Structure](#project-structure)
-[Installation](#installation)
-[Usage](#usage)
-[Data Analysis](#data-analysis)
-[Results](#results)
-[Contributing](#contributing)
-[License](#license)
 
 Introduction
 This project explores the use of chain reasoning, agentic generative AI, classification, prediction, inference, clustering, and time-series anomaly detection for treatment, payment, and operations (TPO) in health care. The goal is to improve patient outcomes, enhance operational efficiency, and reduce costs through advanced data analysis techniques.
