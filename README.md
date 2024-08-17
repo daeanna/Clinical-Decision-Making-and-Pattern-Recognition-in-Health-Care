@@ -54,4 +54,4 @@ Detection of anomalies in heart rate data.
 Visualization of the relationship between heart rate and other health metrics.
 - Comparison of actual vs. predicted heart rate using the linear regression model.
 
-**Feeback is welcome!**
+**Feedback is welcome!**
